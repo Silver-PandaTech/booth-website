@@ -1,0 +1,20 @@
+html{
+    background-color: black;
+}
+body {
+    background-color: black;
+}
+
+#hero {
+    background-color:black;
+    border: none;
+}
+
+#navbar{
+    margin: 0px;
+    background-color: black;
+}
+
+.b-example-divider{
+    background-color: black;
+}
