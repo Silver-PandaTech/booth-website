@@ -19,9 +19,19 @@ body {
     background-color: black;
 }
 
-#footer {
+/* #footer {
     position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
+ } */
+
+
+ body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  } 
+  #footer {
+    margin-top: auto;
  }
