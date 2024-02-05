@@ -1,6 +1,4 @@
-html{
-    background-color: black;
-}
+
 body {
     background-color: black;
 }
@@ -17,6 +15,7 @@ body {
 
 .b-example-divider{
     background-color: black;
+
 }
 
 /* #footer {
@@ -31,7 +30,15 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    margin-bottom: auto;
   } 
   #footer {
     margin-top: auto;
  }
+
+ footer{
+    margin-top: auto;
+ }
+ html{
+    background-color: black;
+}
