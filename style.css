@@ -42,3 +42,15 @@ body {
  html{
     background-color: black;
 }
+
+.nav-link{
+    color: #f0edcf;
+}
+
+@media (max-width: 768px) {
+    #footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}
