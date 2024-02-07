@@ -32,9 +32,9 @@ body {
     min-height: 100vh;
     margin-bottom: auto;
   } 
-  #footer {
+/*   #footer {
     margin-top: auto;
- }
+ } */
 
  footer{
     margin-top: auto;
@@ -49,12 +49,12 @@ body {
     color: #f0edcf;
 }
 
-@media (max-width: 768px) {
-/*     #footer {
+/* @media (max-width: 768px) {
+    #footer {
         position: fixed;
         bottom: 0;
         width: 100%;
-    } */
+    }
 
     #cards{
         margin-top: 40px;
@@ -67,3 +67,4 @@ body {
     align-items: center;    
     }
 }
+ */
