@@ -50,11 +50,11 @@ body {
 }
 
 @media (max-width: 768px) {
-    #footer {
+/*     #footer {
         position: fixed;
         bottom: 0;
         width: 100%;
-    }
+    } */
 
     #cards{
         margin-top: 40px;
